@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HuaTMediator_Example' do
+  pod 'HuaTMediator', :path => '../'
+
+  target 'HuaTMediator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
