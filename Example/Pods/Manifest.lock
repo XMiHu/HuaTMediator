@@ -1,0 +1,16 @@
+PODS:
+  - HuaTMediator (0.1.0)
+
+DEPENDENCIES:
+  - HuaTMediator (from `../`)
+
+EXTERNAL SOURCES:
+  HuaTMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HuaTMediator: 24b0958d94c192cb2c95620f7870704d28c0fbc3
+
+PODFILE CHECKSUM: 6c65c59e093ad05d911d138128ef529646c23aa0
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module Pods_HuaTMediator_Tests {
+  umbrella header "Pods-HuaTMediator_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
